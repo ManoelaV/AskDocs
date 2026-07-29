@@ -1,0 +1,6 @@
+O AskDocs é um assistente inteligente de documentos.
+Ele usa inteligência artificial para responder perguntas baseadas em arquivos PDF e TXT.
+A tecnologia principal é o RAG (Retrieval-Augmented Generation).
+O sistema funciona em 3 passos: busca semântica, augmentação de prompt e geração de resposta.
+O AskDocs foi desenvolvido com NestJS no backend e React no frontend.
+Ele usa Pinecone como banco de dados vetorial e OpenAI para embeddings e geração de texto.
