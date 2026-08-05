@@ -101,4 +101,4 @@ Desenvolvido como projeto de estudo de RAG e busca semântica.
 
 ---
 
-**Status**: Em desenvolvimento (Dias 1-3 concluídos) 🚧
+**Status**: Em desenvolvimento 
