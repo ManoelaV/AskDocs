@@ -117,7 +117,7 @@ curl -X POST http://localhost:3000/chat -H "Content-Type: application/json" -d '
 ## 📝 Próximos Passos
 
 - [x] Sistema RAG completo funcional
-- [x] Ollama integrado (100% gratuito)
+- [x] Ollama integrado
 - [ ] Frontend React com chat interface
 - [ ] Histórico de conversas (SQLite)
 - [ ] Autenticação JWT
